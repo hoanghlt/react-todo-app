@@ -1,5 +1,5 @@
 import React from "react";
-import InputBoxHooks from "../hoc/wrapInputBox";
+import InputBoxHooks from "../hooks/wrapInputBox";
 
 class ParentComponent extends React.Component {
     // Define your 'addNew' function here
